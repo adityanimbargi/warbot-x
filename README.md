@@ -76,11 +76,9 @@ This project focuses on the design and development of a **multifunctional milita
 
 | LCD Status | Description |
 |------------|-------------|
-| ![Forward](docs/images/lcd_forward.png) | Robot moving forward, no obstacles or landmines detected |
-| ![Person Detected](docs/images/lcd_person.png) | Facial recognition system detected a person |
-| ![Bomb Detected](docs/images/lcd_bomb.png) | Metal detection system identified a possible landmine/IED |
-
-*(Replace the `docs/images/...` with the actual paths of your screenshots in the repo.)*  
+| ![Forward](images/forward.jpg) | Robot moving forward, no obstacles or landmines detected |
+| ![Person Detected](images/person.jpg) | Facial recognition system detected a person |
+| ![Bomb Detected](images/bomb.jpg) | Metal detection system identified a possible landmine/IED |
 
 ---
 
